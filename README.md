@@ -1,4 +1,4 @@
-### API dd Vendas
+### API de Vendas
 
 Este projeto é uma API que fiz para estudos
 
